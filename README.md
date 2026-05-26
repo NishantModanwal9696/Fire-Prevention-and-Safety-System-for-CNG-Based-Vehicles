@@ -87,7 +87,9 @@ The project integrates multiple sensors and communication modules to ensure earl
 ---
 
 ## Project Image
-![Project Image](Images/project_image.jpeg)
+<p align="center">
+  <img src="Images/project_image.jpeg" width="500"/>
+</p>
 
 ---
 
