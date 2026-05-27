@@ -245,10 +245,6 @@ This project was developed as a team project.
 ## Safety Note
 ⚠ This project is a prototype model developed for educational and research purposes. Proper industrial-grade safety mechanisms are required before real-world vehicle deployment.
 
----
-
-## License
-This project is licensed under the MIT License.
 
 ---
 
