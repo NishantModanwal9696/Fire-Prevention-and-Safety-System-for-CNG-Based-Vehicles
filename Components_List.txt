@@ -1,21 +1,19 @@
-Arduino UNO
-MQ Gas Sensor
-Flame Sensor
-GSM Module (SIM800L)
-GPS Module (Neo-6M)
-Relay Module
-Mini Water Pump
-Buzzer
-16x2 LCD Display
-Jumper Wires
-Breadboard
-Battery Pack / Power Supply
-DC Motors with Wheels
-Motor Driver Module
-Temperature Sensor
-Smoke Sensor
-Bluetooth Module
-LED Indicators
-Switches
-CNG Cylinder Prototype
-Chassis / Vehicle Body
+- Arduino UNO
+- MQ Gas Sensor
+- Flame Sensor
+- Smoke Sensor
+- Temperature Sensor
+- GSM Module (SIM800L)
+- GPS Module (Neo-6M)
+- Relay Module
+- Mini Water Pump
+- Solenoid Lock
+- Buzzer
+- 16x2 LCD Display
+- Jumper Wires
+- Breadboard
+- Battery Pack / Power Supply
+- DC Motors with Wheels
+- Motor Driver Module
+- Bluetooth Module
+- LED Indicators
